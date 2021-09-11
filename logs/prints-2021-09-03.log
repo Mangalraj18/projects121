@@ -1,0 +1,7 @@
+21:25:59.749 [main] INFO  com.yatra.runner.Runner - Successfully landing page reached
+21:26:12.730 [main] INFO  com.yatra.runner.Runner - Title and all verified
+21:31:25.990 [main] INFO  com.yatra.runner.Runner - date verified successfully
+21:32:35.534 [main] INFO  com.yatra.runner.Runner - Flight details page success
+21:32:35.772 [main] INFO  com.yatra.runner.Runner - Clicked on the boking page
+21:32:36.286 [main] ERROR com.yatra.runner.Runner - Some error happened in  page
+21:36:45.338 [main] INFO  com.yatra.runner.Runner - date verified successfully

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83055" started-at="2021-09-10T17:19:18 IST" finished-at="2021-09-10T17:20:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83055" started-at="2021-09-10T17:19:18 IST" finished-at="2021-09-10T17:20:41 IST">
+      <class name="com.yatra.runner.Runner">
+        <test-method status="PASS" signature="browserget()[pri:0, instance:com.yatra.runner.Runner@29d89d5d]" name="browserget" is-config="true" duration-ms="18766" started-at="2021-09-10T17:18:59 IST" finished-at="2021-09-10T17:19:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserget -->
+        <test-method status="PASS" signature="data()[pri:0, instance:com.yatra.runner.Runner@29d89d5d]" name="data" is-config="true" duration-ms="5914" started-at="2021-09-10T17:19:18 IST" finished-at="2021-09-10T17:19:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method status="PASS" signature="loadsite()[pri:0, instance:com.yatra.runner.Runner@29d89d5d]" name="loadsite" duration-ms="11520" started-at="2021-09-10T17:19:24 IST" finished-at="2021-09-10T17:19:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadsite -->
+        <test-method status="PASS" signature="search(java.lang.String,java.lang.String)[pri:1, instance:com.yatra.runner.Runner@29d89d5d]" name="search" duration-ms="50367" started-at="2021-09-10T17:19:36 IST" data-provider="data" finished-at="2021-09-10T17:20:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="landingpage()[pri:2, instance:com.yatra.runner.Runner@29d89d5d]" name="landingpage" duration-ms="5377" started-at="2021-09-10T17:20:26 IST" finished-at="2021-09-10T17:20:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingpage -->
+        <test-method status="PASS" signature="page()[pri:3, instance:com.yatra.runner.Runner@29d89d5d]" name="page" duration-ms="9708" started-at="2021-09-10T17:20:31 IST" finished-at="2021-09-10T17:20:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.yatra.runner.Runner@29d89d5d]" name="end" is-config="true" duration-ms="1031" started-at="2021-09-10T17:20:41 IST" finished-at="2021-09-10T17:20:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.yatra.runner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

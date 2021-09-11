@@ -1,0 +1,4 @@
+17:20:31.790 [main] INFO  com.yatra.runner.Runner - Clicked on the boking page
+17:20:31.990 [main] INFO  com.yatra.runner.Runner - Elements is highlighted
+17:20:31.991 [main] INFO  com.yatra.runner.Runner - Successfully landing page reached
+17:20:41.700 [main] INFO  com.yatra.runner.Runner - Title and all verified
