@@ -1,0 +1,7 @@
+17:03:25.770 [main] INFO  com.yatra.runner.Runner - Elements is highlighted
+17:03:25.805 [main] INFO  com.yatra.runner.Runner - Successfully landing page reached
+17:03:31.608 [main] INFO  com.yatra.runner.Runner - Title and all verified
+19:22:38.617 [main] INFO  com.yatra.runner.Runner - date verified successfully
+19:22:43.820 [main] INFO  com.yatra.runner.Runner - Flight details page success
+19:22:45.329 [main] INFO  com.yatra.runner.Runner - Clicked on the boking page
+19:22:45.496 [main] INFO  com.yatra.runner.Runner - Elements is highlighted
